@@ -1,0 +1,70 @@
+#zh-search-filter {
+    display: none;
+}
+
+.new-pipeline-column {
+    display: none;
+}
+
+.sidebar-zh-estimate {
+    display: none;
+}
+
+.zh-board {
+    margin: 0 auto;
+    width: 980px;
+}
+
+.zh-board .octicon {
+    background: linear-gradient(rgb(251, 251, 251), rgb(238, 238, 238)) ;
+    border-color: rgb(213, 213, 213);
+}
+
+.zh-multi-repo-show-all-btn, .zh-multi-repo-show-one-btn {
+    background-color: white ;
+    border-left: 0;
+}
+
+.zh-paw, .zh-paw-discussion {
+    display: none;
+}
+
+.zh-pipeline {
+    width: 288px;
+}
+
+.zh-pipeline.zh-pipeline-collapsed {
+    width: 35px
+;
+}
+
+.zh-sidebar-export {
+    display: none;
+}
+
+.zh-sidebar-move {
+    display: none;
+}
+
+.zh-todo-issue-dropdown {
+    display: none;
+}
+
+.zh-todo-link {
+    display: none;
+}
+
+.zh-toggle-button, .zh-repo-switcher > .btn {
+    background: linear-gradient(rgb(251, 251, 251), rgb(238, 238, 238)) ;
+}
+
+.zh-uploader-drop {
+    background: transparent;
+    border: none;
+    height: 50px;
+    width: 30px;
+}
+
+.zh-uploader-hint, .zh-uploader-powered-by {
+    display: none;
+}
